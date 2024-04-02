@@ -401,6 +401,9 @@ footer .credit a {
     flex-wrap: wrap;
     padding-top: 0;
   }
+  .hero {
+    flex-wrap: wrap;
+  }
 }
 
 /* mobile phone */
